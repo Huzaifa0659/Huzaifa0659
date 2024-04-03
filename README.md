@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Huzaifa Ramzan</h1>
 <h3 align="center">Tech Enthusiast | Cloud AI Learner | TypeScript Explorer</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif")
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html?embed=true)">
 
 
 ![MasterHead](https://github.com/Huzaifa0659/Huzaifa0659/blob/main/1710097949709.jpg)
